@@ -1,6 +1,6 @@
 # Image Stitching using Python and OpenCV
 
-Image stitching adalah proses menggabungkan beberapa gambar dengan lapangan pandang yang tumpang tindih untuk membuat gambar panorama atau wide-angle. Repositori ini berisi skrip Python untuk image stitching menggunakan perpustakaan OpenCV.
+Image stitching adalah proses menggabungkan beberapa gambar yang memiliki bidang pandang yang tumpang tindih untuk membuat gambar panoramik atau wide-angle. Teknik ini umumnya digunakan dalam fotografi atau visi komputer untuk menciptakan gambar akhir yang mulus dan padu dengan cara menyelaraskan dan memadukan gambar-gambar individu.
 
 ## Hal hal yang dibutuhkan
 
@@ -10,8 +10,7 @@ Image stitching adalah proses menggabungkan beberapa gambar dengan lapangan pand
 - Imutils
 
 ## Library Install
-
-Anda dapat menginstal dependensi yang diperlukan menggunakan perintah berikut:
+install library yang di butuhkan
 
 ```bash
 pip3 install numpy
